@@ -1,5 +1,3 @@
-If your project is made only with HTML, CSS, and JavaScript, use this README instead:
-
 # 🛒 CartZen E-Commerce Website
 
 CartZen is a responsive e-commerce website developed using HTML, CSS, and JavaScript. It provides a modern online shopping interface with product listings, product details, shopping cart features, and a user-friendly design.
